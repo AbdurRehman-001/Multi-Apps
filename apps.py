@@ -64,7 +64,7 @@ if birth_date:
     age = calculate_age(birth_date)
     st.write(f"Your age is {age} years old.")
 
-Exchange rates (as an example, these values are for demonstration and should be updated regularly)
+# Exchange rates (as an example, these values are for demonstration and should be updated regularly)
 exchange_rates = {
     "GBP": 0.0051,  # PKR to GBP
     "USD": 0.0055,  # PKR to USD
